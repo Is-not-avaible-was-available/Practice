@@ -1,1 +1,2 @@
 This is line one from main.
+This is the line from feature 1.
